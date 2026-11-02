@@ -1,0 +1,38 @@
+{
+  "run_id": "qwen15b-initial-lora-oracle-noise-fp32",
+  "assets": {
+    "weighted_dataset": "data/weighted_gsm8k_2048",
+    "base_model": "<PATH_TO_QWEN2.5_1.5B_MODEL>",
+    "results_root": "<PATH_TO_OFFLINE_ORACLE_NOISE_OUTPUTS>"
+  },
+  "model": {
+    "attn_implementation": "sdpa",
+    "loss_impl": "liger",
+    "max_prompt_length": 256,
+    "max_completion_length": 1024,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.0,
+    "target_modules": [
+      "q_proj",
+      "k_proj"
+    ]
+  },
+  "experiment": {
+    "dataset_size": 2048,
+    "batch_size": 16,
+    "forward_microbatch_size": 8,
+    "num_directions": 10,
+    "num_repeats": 32,
+    "mus": [
+      0.0001,
+      0.0003,
+      0.001,
+      0.003,
+      0.01
+    ],
+    "global_seed": 20260726,
+    "direction_seed": 741103,
+    "batch_seed": 314159
+  }
+}

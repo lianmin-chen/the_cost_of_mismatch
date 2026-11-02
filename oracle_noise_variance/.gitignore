@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*/data/
+# Ship the fixed, lightweight BOLT dataset used by Table 1 / Figure 1.
+!ZooBOLT_Variance/data/
+ZooBOLT_Variance/data/*
+!ZooBOLT_Variance/data/weighted_gsm8k_2048/
+!ZooBOLT_Variance/data/weighted_gsm8k_2048/*.arrow
+!ZooBOLT_Variance/data/weighted_gsm8k_2048/dataset_info.json
+!ZooBOLT_Variance/data/weighted_gsm8k_2048/state.json
+# Ship the fixed prompts used by the RL oracle queries.
+!ZooOnlineRL_Variance/data/
+ZooOnlineRL_Variance/data/*
+!ZooOnlineRL_Variance/data/fixed_gsm8k_prompts_16.json
+*/results/
+results/

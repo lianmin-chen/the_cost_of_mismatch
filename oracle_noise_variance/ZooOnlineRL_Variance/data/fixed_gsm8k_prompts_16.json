@@ -1,0 +1,140 @@
+{
+  "format": "qwen-boxed one-shot, matching the main RLVR experiment",
+  "indices": [
+    845,
+    70,
+    290,
+    1709,
+    3291,
+    3221,
+    5314,
+    6362,
+    2696,
+    1254,
+    5062,
+    4386,
+    6307,
+    4983,
+    7406,
+    665
+  ],
+  "indices_sha256": "475f435113a32306e4dd5b86521f09294ab30466e87f6ca23cceb5579a94c5f7",
+  "rows": [
+    {
+      "answer": "20",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nIn a show, there can be 5 actors at a time. Every actor is in the show for about 15 minutes, and then another 5 actors come in. How many actors can there be on the show in 1 hour?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 0,
+      "question": "In a show, there can be 5 actors at a time. Every actor is in the show for about 15 minutes, and then another 5 actors come in. How many actors can there be on the show in 1 hour?",
+      "source_index": 845
+    },
+    {
+      "answer": "19",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nTim has 30 less apples than Martha, and Harry has half as many apples as Tim. If Martha has 68 apples, how many apples does Harry have?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 1,
+      "question": "Tim has 30 less apples than Martha, and Harry has half as many apples as Tim. If Martha has 68 apples, how many apples does Harry have?",
+      "source_index": 70
+    },
+    {
+      "answer": "10",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nA family has three adults and children, both girls and boys. They went out for a family trip and prepared 3 dozen boiled eggs for the trip. Every adult got 3 eggs, and the boys each received 1 more egg than each girl since the girls had some snacks. How many boys went on the trip if the number of girls was 7 and each girl received an egg?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 2,
+      "question": "A family has three adults and children, both girls and boys. They went out for a family trip and prepared 3 dozen boiled eggs for the trip. Every adult got 3 eggs, and the boys each received 1 more egg than each girl since the girls had some snacks. How many boys went on the trip if the number of girls was 7 and each girl received an egg?",
+      "source_index": 290
+    },
+    {
+      "answer": "2000",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nA Whatsapp group has members sending messages every day sharing about how each one's day was. Last week, 300 messages were sent by the members on Monday, 200 messages on Tuesday, 300 more messages on Wednesday than the previous day, and two times as many messages on Thursday as there were on Wednesday. Calculate the number of messages sent in the Whatsapp group after the four days.\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 3,
+      "question": "A Whatsapp group has members sending messages every day sharing about how each one's day was. Last week, 300 messages were sent by the members on Monday, 200 messages on Tuesday, 300 more messages on Wednesday than the previous day, and two times as many messages on Thursday as there were on Wednesday. Calculate the number of messages sent in the Whatsapp group after the four days.",
+      "source_index": 1709
+    },
+    {
+      "answer": "35",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nRick held a fundraiser and is figuring out who still owes money. He marked on a sheet how much everyone has promised to contribute, but he forgot to note how much some people had actually paid. Altogether, everyone has promised to contribute $400, and Rick has actually received $285.  Sally, Amy, Derek, and Carl all still owe money. Sally and Carl both owe equal amounts, Amy owes $30, and Derek owes half as much as Amy. How much, in dollars, do Sally and Carl each owe?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 4,
+      "question": "Rick held a fundraiser and is figuring out who still owes money. He marked on a sheet how much everyone has promised to contribute, but he forgot to note how much some people had actually paid. Altogether, everyone has promised to contribute $400, and Rick has actually received $285.  Sally, Amy, Derek, and Carl all still owe money. Sally and Carl both owe equal amounts, Amy owes $30, and Derek owes half as much as Amy. How much, in dollars, do Sally and Carl each owe?",
+      "source_index": 3291
+    },
+    {
+      "answer": "44",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nKay has 14 siblings.  Kay is 32 years old.  The youngest sibling is 5 less than half Kay's age.  The oldest sibling is four times as old as the youngest sibling.  How old is the oldest sibling?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 5,
+      "question": "Kay has 14 siblings.  Kay is 32 years old.  The youngest sibling is 5 less than half Kay's age.  The oldest sibling is four times as old as the youngest sibling.  How old is the oldest sibling?",
+      "source_index": 3221
+    },
+    {
+      "answer": "10",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nA coach placed 15 tennis balls and 5 soccer balls each into 5 baskets. He gave 5 of his students a short period of time to remove as many balls each from a basket as they could. 3 of them removed 8 balls each and the other 2 removed a certain number of balls each. If a total of 56 balls are still in the baskets, how many balls did the other 2 students each remove?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 6,
+      "question": "A coach placed 15 tennis balls and 5 soccer balls each into 5 baskets. He gave 5 of his students a short period of time to remove as many balls each from a basket as they could. 3 of them removed 8 balls each and the other 2 removed a certain number of balls each. If a total of 56 balls are still in the baskets, how many balls did the other 2 students each remove?",
+      "source_index": 5314
+    },
+    {
+      "answer": "4",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nTwo trains left the station at the same time, but took different tracks to their destination. One took a track that was 200 miles long and it went 50 MPH. The other took the other track that was 240 miles long and it went 80 MPH. How much time did it take them on average? (Round to the nearest integer.)\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 7,
+      "question": "Two trains left the station at the same time, but took different tracks to their destination. One took a track that was 200 miles long and it went 50 MPH. The other took the other track that was 240 miles long and it went 80 MPH. How much time did it take them on average? (Round to the nearest integer.)",
+      "source_index": 6362
+    },
+    {
+      "answer": "21",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nCandice read 3 times as many books as Amanda in their school's Book Tournament. Kara read half the number of books that Amanda read, and Patricia read 7 times the number of books that Kara read. If Candice read 18 books, how many books did Patricia read?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 8,
+      "question": "Candice read 3 times as many books as Amanda in their school's Book Tournament. Kara read half the number of books that Amanda read, and Patricia read 7 times the number of books that Kara read. If Candice read 18 books, how many books did Patricia read?",
+      "source_index": 2696
+    },
+    {
+      "answer": "33",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nEmilia needs 42 cartons of berries to make a berry cobbler. She already has 2 cartons of strawberries and 7 cartons of blueberries in her cupboard. She decides to go to the supermarket to get more cartons. How many more cartons of berries should Emilia buy?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 9,
+      "question": "Emilia needs 42 cartons of berries to make a berry cobbler. She already has 2 cartons of strawberries and 7 cartons of blueberries in her cupboard. She decides to go to the supermarket to get more cartons. How many more cartons of berries should Emilia buy?",
+      "source_index": 1254
+    },
+    {
+      "answer": "39",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nEvery room in a building has at least two windows and a maximum of 4 windows. There are 122 windows total. If 5 rooms have 4 windows and 8 rooms have 3 windows, how many rooms in the building have 2 windows?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 10,
+      "question": "Every room in a building has at least two windows and a maximum of 4 windows. There are 122 windows total. If 5 rooms have 4 windows and 8 rooms have 3 windows, how many rooms in the building have 2 windows?",
+      "source_index": 5062
+    },
+    {
+      "answer": "180",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nJolene wants to raise some money to buy a bicycle.  She babysits for 4 families for $30 each.  She also washes 5 neighbors\u2019 cars for $12 each.  How much did she raise so far?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 11,
+      "question": "Jolene wants to raise some money to buy a bicycle.  She babysits for 4 families for $30 each.  She also washes 5 neighbors\u2019 cars for $12 each.  How much did she raise so far?",
+      "source_index": 4386
+    },
+    {
+      "answer": "14",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nTracy, John and Jake found their combined weight to be 158 kilograms. If Tracy weighs 52 kg and Jake weighs 8kg more than Tracy, what is the range of their weights?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 12,
+      "question": "Tracy, John and Jake found their combined weight to be 158 kilograms. If Tracy weighs 52 kg and Jake weighs 8kg more than Tracy, what is the range of their weights?",
+      "source_index": 6307
+    },
+    {
+      "answer": "4",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nViolet is planning a hike through the desert with her dog. Violet needs 800 ml of water per hour hiked and her dog needs 400 ml of water per hour. If Violet can carry 4.8 L of water, how many hours can she and her dog spend hiking?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 13,
+      "question": "Violet is planning a hike through the desert with her dog. Violet needs 800 ml of water per hour hiked and her dog needs 400 ml of water per hour. If Violet can carry 4.8 L of water, how many hours can she and her dog spend hiking?",
+      "source_index": 4983
+    },
+    {
+      "answer": "20000",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nBill is hoarding toilet paper in fear of another pandemic. Bill goes to the bathroom three times a day and uses 5 squares of toilet paper each time. If Bill has 1000 rolls of toilet paper and each roll has 300 squares of toilet paper, how many days will his toilet paper supply last?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 14,
+      "question": "Bill is hoarding toilet paper in fear of another pandemic. Bill goes to the bathroom three times a day and uses 5 squares of toilet paper each time. If Bill has 1000 rolls of toilet paper and each roll has 300 squares of toilet paper, how many days will his toilet paper supply last?",
+      "source_index": 7406
+    },
+    {
+      "answer": "24",
+      "prompt": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is the largest single-digit prime number?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n9 is divisible by 3 and 8 is divisible by 2, but 7 is prime. The answer is \\boxed{7}.<|im_end|>\n<|im_start|>user\nBill picked 50 apples from the orchard with his wife and two children.  He sends each of his kids to school with 3 apples for their two favorite teachers.  His wife Jill bakes two apple pies, using 10 apples per pie. How many apples does Bill have left?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n",
+      "prompt_id": 15,
+      "question": "Bill picked 50 apples from the orchard with his wife and two children.  He sends each of his kids to school with 3 apples for their two favorite teachers.  His wife Jill bakes two apple pies, using 10 apples per pie. How many apples does Bill have left?",
+      "source_index": 665
+    }
+  ],
+  "sample_seed": 424242,
+  "source": "GSM8K train split after answer preprocessing",
+  "source_fingerprint": "5562486d1ee571f7",
+  "source_num_rows": 7470
+}

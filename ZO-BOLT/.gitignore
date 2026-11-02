@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+
+# Generated data, checkpoints, and run logs.
+outputs/
+checkpoints/
+wandb/
+logs/
+results/
+*.log
+*.tmp
+*.parquet
+*.arrow
+
+# The small, prepared evaluation datasets are part of the release.
+!zobolt/eval/processed_datasets/**/*.arrow
